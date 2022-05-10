@@ -1,0 +1,15 @@
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\obj\Debug\net6.0\baitap.csproj.AssemblyReference.cache
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\obj\Debug\net6.0\baitap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\obj\Debug\net6.0\baitap.AssemblyInfoInputs.cache
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\obj\Debug\net6.0\baitap.AssemblyInfo.cs
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\obj\Debug\net6.0\baitap.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\bin\Debug\net6.0\baitap.exe
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\bin\Debug\net6.0\baitap.deps.json
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\bin\Debug\net6.0\baitap.runtimeconfig.json
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\bin\Debug\net6.0\baitap.dll
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\bin\Debug\net6.0\baitap.pdb
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\obj\Debug\net6.0\baitap.dll
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\obj\Debug\net6.0\refint\baitap.dll
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\obj\Debug\net6.0\baitap.pdb
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\obj\Debug\net6.0\baitap.genruntimeconfig.cache
+C:\Users\Hung\Desktop\BaiTap\baitap\baitap\obj\Debug\net6.0\ref\baitap.dll

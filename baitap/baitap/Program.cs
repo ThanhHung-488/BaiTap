@@ -8,8 +8,9 @@ namespace BaiTap
             int[] arr226 = new int[10];
             int i226, mx226, mn226, n226;
 
-            Console.WriteLine("Nhap {0} phan tu vao trong mang:\n",n226);
+            Console.WriteLine("Nhap so phan tu: ");
             n226 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Nhap {0} phan tu vao trong mang:\n",n226);
 
             for (i226 = 0; i226 < n226; i226++)
             {
